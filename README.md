@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Batur</h1>
-<h3 align="center">A rising Frontend Developer in making.</h3>
-<h3 align="center">I'm currently using my work GitHub account, if this account is not active that's the reason of it.</h3>
+<h3 align="center">A rising Frontend Developer in the making.</h3>
+<h3 align="center">I'm currently using my work GitHub account, if this account is not active that's the reason for it.</h3>
+<h3 align="center"><a href="https://github.com/baturerenerfanians">My Work Account</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batureren&label=Profile%20views&color=0e75b6&style=flat" alt="batureren" /> </p>
 
