@@ -105,6 +105,19 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">KeyBreach</h3>
+      <p align="center">
+        <a href="https://store.steampowered.com/app/4300620/KeyBreach/" target="_blank">
+          <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4300620/437728443a8b7ee87c50e29291bb4d01bf1db91f/header.jpg?t=1780437365" alt="KeyBreach" height="126"/>
+        </a>
+      </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" alt="Electron"/>
+</p>
+    </td>
+    <td width="50%">
       <h3 align="center">ClientRay</h3>
       <p align="center">
         <a href="https://clientray.com/" target="_blank">
