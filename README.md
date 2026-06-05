@@ -45,7 +45,7 @@
     <td width="50%">
       <h3 align="center">Gamze Sart</h3>
       <p align="center">
-        <a href="https://gamzesart.com" target="_blank">
+        <a href="https://gamzesart.batureren.com" target="_blank">
           <img src="https://gamzesart.com/img/gamze-sart-logo.png" alt="Gamze's Art" height="66"/>
         </a>
       </p>
