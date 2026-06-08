@@ -46,7 +46,7 @@
       <h3 align="center">Gamze Sart</h3>
       <p align="center">
         <a href="https://gamzesart.batureren.com" target="_blank">
-          <img src="https://gamzesart.com/img/gamze-sart-logo.png" alt="Gamze's Art" height="66"/>
+          <img src="https://gamzesart.batureren.com/img/gamze-sart-logo.png" alt="Gamze's Art" height="66"/>
         </a>
       </p>
       <p align="center">
@@ -58,8 +58,8 @@
     <td width="50%">
       <h3 align="center">Aba Psikoloji</h3>
       <p align="center">
-        <a href="https://abapsikoloji.com" target="_blank">
-          <img src="https://abapsikoloji.com/img/aba-psikoloji-logo.png" alt="Aba Psikoloji" height="66"/>
+        <a href="https://abapsikoloji.batureren.com" target="_blank">
+          <img src="https://abapsikoloji.batureren.com/img/aba-psikoloji-logo.png" alt="Aba Psikoloji" height="66"/>
         </a>
       </p>
       <p align="center">
