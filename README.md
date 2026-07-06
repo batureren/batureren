@@ -17,8 +17,8 @@
     <td width="50%">
       <h3 align="center">Education for Innovation</h3>
       <p align="center">
-        <a href="https://educationforinnovation.org" target="_blank">
-          <img src="https://educationforinnovation.org/img/e4i-logo.png" alt="Education for Innovation" height="66"/>
+        <a href="https://educationforinnovation.batureren.com" target="_blank">
+          <img src="https://educationforinnovation.batureren.com/img/e4i-logo.png" alt="Education for Innovation" height="66"/>
         </a>
       </p>
       <p align="center">
